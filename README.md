@@ -1,8 +1,8 @@
-<h2 align="center">Bonjour, Je m'appelle DANIEL Dayan et je suis développeur fullstack.</h2>
+<h1 align="left">Hello World!!</h1>
 
 ###
 
-<img src="https://raw.githubusercontent.com/dayandaniel30/dayandaniel30/output/snake.svg" alt="Snake animation" />
+<p align="center">Bonjour, Je m'appelle DANIEL Dayan et je suis développeur fullstack.</p>
 
 ###
 
